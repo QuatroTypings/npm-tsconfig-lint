@@ -1,0 +1,7 @@
+{
+  "name": "tsconfig-lint",
+  "homepage": "https://github.com/wjohnsto/tsconfig-lint",
+  "version": "0.11.0",
+  "main": "index.d.ts",
+  "dependencies": {}
+}
